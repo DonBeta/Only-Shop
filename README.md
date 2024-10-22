@@ -1,2 +1,2 @@
 # Only-Shop
-tienda online, primer proyecto post bootcamp
+tienda online, primer proyecto pos bootcamp
